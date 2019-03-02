@@ -9,7 +9,6 @@ namespace Summarizer
     public class StoryWord
     {
         public string Text { get; set; }
-        public string Coref { get; set; }
         public double Count { get; set; }
         public double DocumentsApeared { get; set; }
         public double Tfidf { get; set; }
