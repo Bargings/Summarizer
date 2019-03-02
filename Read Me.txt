@@ -1,0 +1,1 @@
+Packages.rar needs to be unrared in the folder contening summarizer.sln or summarizer.exe (if executable is used)
